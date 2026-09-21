@@ -6,8 +6,8 @@ import { Youtube, Volume2, VolumeX, ChevronLeft, ChevronRight } from "lucide-rea
 
 const shortsVideos = [
   "94itD1uWvYo",
-  "GINr4ipBlxI",
-  "Qcd4ZhzMG2o",
+  "RR7D6HY92Gw",
+  "WLSW9CjrlA4",
   "SvclAS4L0rU",
   "IfiNDIwurq8",
   "nCCXeQBOehI",
